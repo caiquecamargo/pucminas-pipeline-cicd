@@ -3,9 +3,9 @@ description: "Greet the caller"
 
 inputs:
   the-caller:
-  description: "Who is there"
-  required: true
-  default: "World"
+    description: "Who is there"
+    required: true
+    default: "World"
 
 outputs:
   random-number:
